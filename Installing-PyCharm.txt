@@ -1,1 +1,7 @@
 https://web.stanford.edu/class/archive/cs/cs106ap/cs106ap.1196/coursehandouts/installingpycharm.html
+
+How to install Python 3.8 on Windows 10 in 2020
+https://www.youtube.com/watch?v=LuQjh2Q0UzQ
+
+How to Install PyCharm IDE on Windows 10 | 2020 | Best IDE for Python
+https://www.youtube.com/watch?v=EpjDOovzgrc
