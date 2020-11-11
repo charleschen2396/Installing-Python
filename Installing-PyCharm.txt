@@ -5,3 +5,10 @@ https://www.youtube.com/watch?v=LuQjh2Q0UzQ
 
 How to Install PyCharm IDE on Windows 10 | 2020 | Best IDE for Python
 https://www.youtube.com/watch?v=EpjDOovzgrc
+
+Creating GitHub Repository and Introduction to Git Commands
+https://www.youtube.com/watch?v=VG9xhrJ0How
+
+
+How To Configure And Use GitHub From PyCharm
+https://www.youtube.com/watch?v=7sinNdn49Uk&t=313s
